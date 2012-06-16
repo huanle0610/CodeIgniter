@@ -1,4 +1,22 @@
 .DS_Store
+*~
+*.swp
+*бл
+/tags
+/TAGS
+/cscope.*
+/.patches/
+/.idea/
+/nbproject/
+CVS
+.DS_Store
+/.settings/
+/.project
+/.buildpath
+/.cache
+.netrwhist
+.VimballRecord
+
 
 application/cache/*
 !application/cache/index.html
